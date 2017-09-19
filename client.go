@@ -30,7 +30,7 @@ import (
 	. "github.com/aerospike/aerospike-client-go/logger"
 	. "github.com/aerospike/aerospike-client-go/types"
 	xornd "github.com/aerospike/aerospike-client-go/types/rand"
-	"github.com/yuin/gopher-lua"
+	"github.com/instabid/gopher-lua"
 )
 
 // Client encapsulates an Aerospike cluster.

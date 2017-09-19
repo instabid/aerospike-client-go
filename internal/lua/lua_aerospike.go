@@ -16,7 +16,7 @@ package lua
 
 import (
 	"github.com/instabid/aerospike-client-go/logger"
-	"github.com/yuin/gopher-lua"
+	"github.com/instabid/gopher-lua"
 )
 
 type LuaAerospike struct {

@@ -18,7 +18,7 @@ import (
 	"github.com/instabid/aerospike-client-go/internal/lua/resources"
 	"github.com/instabid/aerospike-client-go/logger"
 	"github.com/instabid/aerospike-client-go/types"
-	"github.com/yuin/gopher-lua"
+	"github.com/instabid/gopher-lua"
 )
 
 // SetPath sets the interpreter's current Lua Path

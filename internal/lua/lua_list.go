@@ -17,7 +17,7 @@ package lua
 import (
 	"fmt"
 
-	"github.com/yuin/gopher-lua"
+	"github.com/instabid/gopher-lua"
 )
 
 type LuaList struct {

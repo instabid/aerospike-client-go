@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/yuin/gopher-lua"
+	"github.com/instabid/gopher-lua"
 )
 
 // NewValue creates a value from interface{} in the interpreter

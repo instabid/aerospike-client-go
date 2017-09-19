@@ -15,7 +15,7 @@
 package lua_test
 
 import (
-	"github.com/yuin/gopher-lua"
+	"github.com/instabid/gopher-lua"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

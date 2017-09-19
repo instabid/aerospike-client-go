@@ -22,8 +22,8 @@ import (
 	// "time"
 	"runtime"
 
-	. "github.com/aerospike/aerospike-client-go"
-	. "github.com/aerospike/aerospike-client-go/logger"
+	. "github.com/instabid/aerospike-client-go"
+	. "github.com/instabid/aerospike-client-go/logger"
 )
 
 // flag information

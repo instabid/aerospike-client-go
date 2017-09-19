@@ -15,8 +15,8 @@
 package aerospike
 
 import (
-	. "github.com/aerospike/aerospike-client-go/types"
-	Buffer "github.com/aerospike/aerospike-client-go/utils/buffer"
+	. "github.com/instabid/aerospike-client-go/types"
+	Buffer "github.com/instabid/aerospike-client-go/utils/buffer"
 )
 
 // guarantee writeCommand implements command interface

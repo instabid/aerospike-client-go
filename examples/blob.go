@@ -17,7 +17,7 @@ package main
 import (
 	// "fmt"
 
-	. "github.com/aerospike/aerospike-client-go"
+	. "github.com/instabid/aerospike-client-go"
 )
 
 type Person struct {

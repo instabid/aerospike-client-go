@@ -19,7 +19,7 @@ import (
 	"testing"
 	// "time"
 	_ "net/http/pprof"
-	// . "github.com/aerospike/aerospike-client-go"
+	// . "github.com/instabid/aerospike-client-go"
 )
 
 var list []Value
